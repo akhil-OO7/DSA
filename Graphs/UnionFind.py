@@ -16,7 +16,7 @@ class UnionFind:
     return True
       
   def find(node):
-    res = node
+    res = par[node]
     while par[res] != res:
       par[res] = par[par[res]]
       res = par[res]
