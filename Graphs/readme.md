@@ -4,4 +4,5 @@
 3. Union Find
 4. Dijkstra
 5. Bellmanford
-6. Topological Sort
+6. Prim's Algorithm
+7. Topological Sort
